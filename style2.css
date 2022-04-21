@@ -1,0 +1,15 @@
+/*Titles*/
+h1,h3{
+  color: #42C2FF;
+}
+
+body{
+background-color: #EFFFFD;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #85F4FF;
+  border-width: 8px;
+  width: 5%;
+}
